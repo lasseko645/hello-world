@@ -6,3 +6,5 @@ pointen med dette program er at vise hvordan man kan gøre brug af github, og hv
 
 til at starte med var programmet bare en print som sagde "Hello World"
 
+pointen med dette program er at lære basisk kode fra begyndelse
+
